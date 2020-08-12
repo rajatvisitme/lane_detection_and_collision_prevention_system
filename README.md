@@ -5,10 +5,12 @@ By Rajat Agrawal<br>
 
 ## Results
 <b>Test 1</b><br>
-![alt text](https://github.com/rajatvisitme/lane_detection_and_collision_prevention_system/results/result1.JPG)
+![alt text](https://github.com/rajatvisitme/lane_detection_and_collision_prevention_system/blob/master/results/result1.jpg
+)
 <br><br>
 <b>Test 2</b><br>
-![alt text](https://github.com/rajatvisitme/lane_detection_and_collision_prevention_system/results/result2.JPG)
+![alt text](https://github.com/rajatvisitme/lane_detection_and_collision_prevention_system/blob/master/results/result2.jpg
+)
 <br>
 
 <h2>Dependencies</h2> (Also mentioned in requirements.txt)
