@@ -2,17 +2,7 @@
 A computer vision and machine learning-based lane detection and collision prevention system for Self-Driving Cars.<br>
 By Rajat Agrawal<br>
 [Linkedin](https://www.linkedin.com/in/rajatvisitme/)
-
-## Results
-<b>Test 1</b><br>
-![alt text](https://github.com/rajatvisitme/lane_detection_and_collision_prevention_system/blob/master/results/result1.jpg
-)
-<br><br>
-<b>Test 2</b><br>
-![alt text](https://github.com/rajatvisitme/lane_detection_and_collision_prevention_system/blob/master/results/result2.jpg
-)
 <br>
-
 <h2>Dependencies</h2> (Also mentioned in requirements.txt)
 <ul>
   <li>Numpy</li>
@@ -26,3 +16,12 @@ Follow the [installation instructions](https://github.com/tensorflow/models/blob
 Now clone this repo into your tensorflow\models\research\object_detection folder. (make sure main.py is in object_detection folder)<br>
 
 Ready to #Drive.
+
+## Results
+<b>Test 1</b><br>
+![alt text](https://github.com/rajatvisitme/lane_detection_and_collision_prevention_system/blob/master/results/result1.jpg
+)
+<br><br>
+<b>Test 2</b><br>
+![alt text](https://github.com/rajatvisitme/lane_detection_and_collision_prevention_system/blob/master/results/result2.jpg
+)
