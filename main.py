@@ -3,7 +3,7 @@
 ##  Author : Rajat Agrawal
 ##  Initial commit: 12-Aug-2020
 ##  Last modification on 12-Aug-2020
-##  Import all necessory packages.
+##  Import all necessory packages. ####### First follow the installation instructions for tensorflow object detection API (link in readme). #######
 import numpy as np
 import os
 import sys
