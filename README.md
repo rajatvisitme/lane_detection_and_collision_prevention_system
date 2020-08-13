@@ -1,5 +1,6 @@
 # Lane Detection & Collision Prevention System
 A computer vision and machine learning-based lane detection and collision prevention system for Self-Driving Cars.<br>
+The system is capable of detecting road lanes for safe driving and also detects pedestrians, vehicles, and other objects due to which there is chance of collision. The system can be applied to both semi-automated and fully automated vehicles.<br>
 By Rajat Agrawal<br>
 [Linkedin](https://www.linkedin.com/in/rajatvisitme/)
 <br>
